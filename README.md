@@ -3,8 +3,8 @@ GUI application built in Python with DelphiFMX to access the ChatGPT API.
 
 # Installation:
 
-pip install delphifmx
-pip install openai
+* pip install delphifmx
+* pip install openai
 
 # Run:
 
